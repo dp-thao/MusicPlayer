@@ -1,7 +1,7 @@
 const $ = document.querySelector.bind(document);
 const $$ = document.querySelectorAll.bind(document);
 
-const  songs = [
+const songs = [
     {
       name: "Click Pow Get Down",
       singer: "Raftaar x Fortnite",
