@@ -37,13 +37,13 @@ html {
 }
 
 .dashboard {
-  padding: 16px 16px 14px;
-  background-color: #fff;
-  position: fixed;
-  top: 0;
-  width: 100%;
-  max-width: 480px;
-  border-bottom: 1px solid #ebebeb;
+	padding: 16px 16px 14px;
+	background-color: #fff;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	max-width: 480px;
+	border-bottom: 1px solid #ebebeb;
 }
 
 /* HEADER */
@@ -130,8 +130,9 @@ header h2 {
 
 /* PLAYLIST */
 .playlist {
-  margin-top: 408px;
+  margin-top: 400px;
   padding: 12px;
+  background: #e0e0e0;
 }
 
 .song {
